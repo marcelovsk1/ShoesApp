@@ -13,12 +13,8 @@ struct CustomSceneView: UIViewRepresentable {
         return view
     }
 
-    
-
     func updateUIView(_ uiView: UIViewType, context: Context) {
-
         //
-
     }
 
 }
