@@ -16,15 +16,9 @@ struct CustomSceneView: UIViewRepresentable {
     func updateUIView(_ uiView: UIViewType, context: Context) {
         //
     }
-
 }
 
-
-
-
 #Preview {
-
     ContentView()
-
 }
 
