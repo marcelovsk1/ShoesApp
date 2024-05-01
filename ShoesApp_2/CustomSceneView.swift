@@ -11,7 +11,6 @@ struct CustomSceneView: UIViewRepresentable {
         view.scene = scene
         view.backgroundColor = .clear
         return view
-
     }
 
     
